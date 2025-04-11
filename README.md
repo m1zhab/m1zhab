@@ -1,4 +1,4 @@
-# 👨‍💻 Mizhab here!
+# 👨‍💻 Hi there, I'm Muhammed Mizhab!
 
 🧩 Software Engineer • AI Explorer • Game Systems Builder  
 🧠 Passionate about Artificial Intelligence, real-world ML applications, and interactive experiences built with Unity and modern data tools.
