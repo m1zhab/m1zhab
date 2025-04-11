@@ -41,8 +41,8 @@
 ## 🏁 Notable Achievements
 
 - 🎯 **AIR 4696 – GATE DA 2024**  
-- 🥇 **Winner – Code-a-Star Hackathon**  
-- 🔬 **Elite Rank – NPTEL Deep Learning**
+- 🥇 **Winner – [Code-a-Star](https://github.com/m1zhab/code-a-star)**  
+- 🔬 **Elite Rank – [NPTEL Deep Learning](https://archive.nptel.ac.in/content/noc/NOC23/SEM2/Ecertificates/106/noc23-cs126/Course/NPTEL23CS126S63530104820014212.pdf)**
 
 ---
 
