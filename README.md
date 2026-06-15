@@ -17,8 +17,8 @@
 
 ## 🚀 Featured Work
 
-### 💼 [**HR Intelligence Project**](https://github.com/m1zhab/hr-intelligent-os) | [↗](https://ai.studio/apps/drive/1a381ESYv_EYgjXLkIgx8WtxbHq8YTrdl?fullscreenApplet=true) $${\small{\color{rgba(211,211,211,0.6)}\rm ← click\space here\space for\space demo}}$$
-Engineered an **autonomous operational console** for workforce management.
+### 💼 [**HR Intelligence Project**](https://github.com/m1zhab/hr-intelligent-os) | [↗](https://ai.studio/apps/drive/1a381ESYv_EYgjXLkIgx8WtxbHq8YTrdl?fullscreenApplet=true) ← click here
+* Engineered an **autonomous operational console** for workforce management.
 * Developed automated contract generation and live interview analysis.
 * Integrated **Burnout Risk Assessment** models to provide proactive retention insights.
 * Leveraged local LLM orchestration using Ollama to ensure data privacy and real-time processing.
